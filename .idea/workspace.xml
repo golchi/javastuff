@@ -4,26 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30598355-8897-48a4-9526-27e137e4a628" name="Changes" comment="chore: Added chapters folders +  ignore file + updated Readme file with Author name">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javastuff.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap1/DialogBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="30598355-8897-48a4-9526-27e137e4a628" name="Changes" comment="Chap2 CompoundInterest exercice completed + dummy testing on old code">
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap1/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap2/CompoundInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap2/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javastuff.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javastuff.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap1/DialogBox.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,7 +41,6 @@
   </component>
   <component name="ProjectId" id="2PuB3vc7yTIuXSLIZmffp0wLW8X" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
@@ -44,29 +48,18 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="javastuff" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="javastuff" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -84,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684297484861</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chore: Added chapters folders +  ignore file + updated Readme file with Author name">
+      <created>1684298968178</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684298968178</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -105,7 +105,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chore: Added chapters folders +  ignore file + updated Readme file with Author name" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: Added chapters folders +  ignore file + updated Readme file with Author name" />
+    <MESSAGE value="Chap2 CompoundInterest exercice completed + dummy testing on old code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chap2 CompoundInterest exercice completed + dummy testing on old code" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
