@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30598355-8897-48a4-9526-27e137e4a628" name="Changes" comment="Chap2 CompoundInterest exercice completed + dummy testing on old code" />
+    <list default="true" id="30598355-8897-48a4-9526-27e137e4a628" name="Changes" comment="Chap2 CompoundInterest exercice completed + dummy testing on old code">
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap12/JavaFXApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap2/MyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap3/BodyMassIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap3/MagicDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap3/MassAndWeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap3/MobileServiceProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap3/RomanNumerals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chap3/TestScoreGrade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap2/CompoundInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap2/CompoundInterest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap2/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap2/Logging.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,17 +48,17 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.runner"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
