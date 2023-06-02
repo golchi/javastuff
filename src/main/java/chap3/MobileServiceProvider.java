@@ -19,7 +19,7 @@ public class MobileServiceProvider {
 
             if (totalMinutes <= defaultMinutes){
                 totalCharges = defaultRate;
-            } else if (totalMinutes > defaultMinutes) {
+            } else {
                 totalCharges = defaultRate + (extraMinRate * (totalMinutes - defaultMinutes));
             }
         } else if (subscriptionPackage.compareTo("B") == 0) {
@@ -29,7 +29,7 @@ public class MobileServiceProvider {
 
             if (totalMinutes <= defaultMinutes){
                 totalCharges = defaultRate;
-            } else if (totalMinutes > defaultMinutes) {
+            } else {
                 totalCharges = defaultRate + (extraMinRate * (totalMinutes - defaultMinutes));
             }
         } else if (subscriptionPackage.compareTo("C") == 0) {

@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30598355-8897-48a4-9526-27e137e4a628" name="Changes" comment="Chap3 - MassAndWeight class added">
+    <list default="true" id="30598355-8897-48a4-9526-27e137e4a628" name="Changes" comment="Chap3 - SortedNames class added">
       <change afterPath="$PROJECT_DIR$/src/main/java/chap12/JavaFXApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chap3/SortedNames.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap3/MobileServiceProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap3/MobileServiceProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chap3/TestScoreGrade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chap3/TestScoreGrade.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685669024086</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Chap3 - SortedNames class added">
+      <created>1685672253956</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1685672253956</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,7 +149,8 @@
     <MESSAGE value="Chap3 First codes" />
     <MESSAGE value="Chap3 - TestScoreGrade class added" />
     <MESSAGE value="Chap3 - MassAndWeight class added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chap3 - MassAndWeight class added" />
+    <MESSAGE value="Chap3 - SortedNames class added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chap3 - SortedNames class added" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
